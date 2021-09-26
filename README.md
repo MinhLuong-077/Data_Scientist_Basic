@@ -1,4 +1,4 @@
-# Data Science Handbook
+# Data Science
 
 # Table of contents
 
